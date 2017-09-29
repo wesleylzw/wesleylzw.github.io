@@ -816,6 +816,20 @@ console.log('\n %c © Material Theme | Version: 1.5.0 | https://github.com/viose
 
                 </main>
             </div>
+			
+    <script type="text/javascript" src="/live2d/script.js"></script>
+    <canvas id="live2dcanvas" width="150" height="500" class="live2d"></canvas>
+    <style>
+      #live2dcanvas {
+        position: fixed;
+        right: 0px;
+        z-index: 999;
+        pointer-events: none;
+        bottom: -88px;
+      }
+    </style>
+    <script>loadlive2d("live2dcanvas" ,"/live2d/assets/hibiki/hibiki.model.json",0.5)</script>
+  
         </body>
     
 </html>

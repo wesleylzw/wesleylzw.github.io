@@ -63,8 +63,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
+      <title><![CDATA[gallery]]></title>
+      <url>/gallery/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -75,8 +75,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[gallery]]></title>
-      <url>/gallery/index.html</url>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
