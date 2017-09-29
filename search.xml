@@ -5,9 +5,21 @@
     <entry>
       <title><![CDATA[为什么存在这个页面]]></title>
       <url>/2017/09/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%AD%98%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A1%B5%E9%9D%A2/</url>
-      <content type="html"><![CDATA[<p>这是一篇测试文章，看看我自己是否能写东西并上传上去了0.0</p>
+      <content type="html"><![CDATA[<p>兴趣使然。</p>
+<p>有的人朋友圈一天能发几十条，有的人是QQ空间网红。像我这样内向、不善交际的人，顶多隔三差五地在票圈冒个泡。</p>
+<p>对于一个习惯孤独的人来说，他可能更偏好于搭建一个博客，在上面写写东西，淡然地记录生活的点点滴滴，享受着属于自己的一方天地。</p>
+<p>这里的点点滴滴，别于票圈中的心情、吐槽，别于小学生写日记似的流水账，是将生活以专业的态度记录下来</p>
+<p>有些想法，朋友圈倾诉不完。写长文以博客的形式记录，心情甚愉。</p>
+<p>不是什么东西都 “好意思” 公开发于朋友圈的。你记录在自己的博客里，好像有种更 “理直气壮” 、“心安理得” 的感觉。</p>
+<p>我是宅男，爱好动漫、二次元。有关该主题的 “没有营养” 的票圈的发多了，可能会招来他人厌恶。藏起来，挂在家中，自己看着，开心就好。</p>
 ]]></content>
       
+        
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
         
     </entry>
     
@@ -51,8 +63,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[gallery]]></title>
-      <url>/gallery/index.html</url>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -63,8 +75,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
+      <title><![CDATA[gallery]]></title>
+      <url>/gallery/index.html</url>
       <content type="html"></content>
     </entry>
     
